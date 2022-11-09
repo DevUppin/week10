@@ -2,8 +2,22 @@
 //     console.log(i);
 
 // }
+// let input = "";
+// do {
+//     input = prompt("Enter your name: ");
+// } while (!isNaN(Number(input)));
 
-for (let i = 1; i <= 10; i++) {
-    console.log(Math.pow(2, i))
-}
+// // alert("Hello" + input);
+// alert("Hello ${input)")
+let arr = 
+
+let ,fruits = ['Apples', 'Bananas'];
+fruits.push("Orange");
+// fruits.pop();
+// fruits.unshift("Mango")
+// console.log(fruits)
+
+for (let i = 0; i < fruits.length; i++) 
+console.log(fruits[1])
+
 
